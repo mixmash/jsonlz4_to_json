@@ -1,4 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "lz4>=4.0.2",
+# ]
+# ///
 import pathlib
 import os
 import argparse
