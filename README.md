@@ -1,5 +1,8 @@
 # CLI converter jsonlz4 to json
 
+> [!WARNING]
+> This plugin is archived! It was a fork from the [original repo](https://github.com/Robotvasya/jsonlz4_to_json). However, [other solutions](https://github.com/jusw85/mozlz4) exist - more importantly, it can be found in the Ubuntu repositories, e.g. `sudo apt install lz4 lz4json`.
+
 ## Description
 
 This command line tool converts Firefox user profile data backup file from .jsonlz4 format to JSON format.
